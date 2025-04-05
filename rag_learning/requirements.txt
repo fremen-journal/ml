@@ -1,0 +1,8 @@
+dotenv
+beautifulsoup4
+openai
+langchain
+langchain-community
+langchain_openai
+langchain_chroma
+gradio
