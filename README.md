@@ -1,4 +1,4 @@
-# Micro-learning Interactive Notebooks for Applied Machine Learning
+# Micro-learning for Applied Machine Learning
 
 ## Look! Ma, no installation needed!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fremen-journal/ml/HEAD)
